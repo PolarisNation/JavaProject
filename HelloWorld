@@ -2,7 +2,6 @@ public class HelloWorld{
   //깃헙 테스트 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
   public static void main(String args[]){
   System.out.println("Hello World");
-  System.out.print("by 박용준이 왔다 감");
-  System.out.print("by 박용준이 왔다 가셨어요");
+  System.out.print("by 박용준이 왔다 가셨어요2");
   }
 }
