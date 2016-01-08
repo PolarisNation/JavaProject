@@ -3,5 +3,6 @@ public class HelloWorld{
   public static void main(String args[]){
   System.out.println("Hello World");
   System.out.print("by 박용준이 왔다 감");
+  System.out.print("by 박용준이 왔다 가셨어요");
   }
 }
